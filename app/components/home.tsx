@@ -1,3 +1,4 @@
+"use client"
 import {
   TbCircleNumber1Filled,
   TbCircleNumber2Filled,

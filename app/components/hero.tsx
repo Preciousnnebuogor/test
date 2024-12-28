@@ -1,4 +1,4 @@
-import { IoDiamondOutline } from "react-icons/io5";
+"use client"
 
 
 export default function Hero() {

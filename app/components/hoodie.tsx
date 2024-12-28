@@ -1,3 +1,4 @@
+"use client"
 import { IoIosStar } from "react-icons/io";
 
 export default function Hoodie () {

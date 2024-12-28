@@ -1,5 +1,5 @@
 "use client"
-import { FaChevronUp } from "react-icons/fa";
+
 
 export default function  Question () {
 

@@ -1,3 +1,4 @@
+"use client"
 import { FaRegArrowAltCircleLeft, FaRegArrowAltCircleRight } from "react-icons/fa";
 
 export default function Check () {
