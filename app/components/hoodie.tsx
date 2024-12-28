@@ -11,7 +11,7 @@ export default function Hoodie () {
         </div>
         <div className={`grid grid-cols-2`}></div>
 
-        <div className={`md:flex Md:justify-between mb-4 md:px-16 bg-slate-200`}>
+        <div className={`md:flex md:justify-between mb-4 md:px-16 bg-slate-200`}>
           <div>
             <div className={`px-4 mt-2 flex justify-start space-x-2`}>
               <img

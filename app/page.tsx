@@ -1,3 +1,4 @@
+import Check from "./components/check";
 import Details from "./components/details";
 import Hero from "./components/hero";
 import HomePage from "./components/home";
@@ -10,6 +11,7 @@ export default function Home() {
       <Details/>
       <Hero/>
       <Hoodie/>
+      <Check/>
     </div>
   );
 }
