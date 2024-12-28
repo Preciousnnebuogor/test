@@ -11,7 +11,7 @@ export default function Details() {
     <div className={`text-black`}>
       <div
         className={
-          "mt-4 px-4 border-b-2 border-black  text-black mb-4 space-x-14"
+          "mt-10 px-4 border-b-2 border-black  text-black mb-4 space-x-14"
         }
       >
         <button
@@ -57,7 +57,7 @@ export default function Details() {
       </div>
 
       {overview && (
-        <div className={`grid grid-cols-3 px-4 space-x-8`}>
+        <div className={`md:grid md:grid-cols-3 px-4 md:space-x-8`}>
           <div className={`w-[100%]`}>
             <p className={`font-bold mt-2`}>Overview</p>
             <p className={`mt-2`}>

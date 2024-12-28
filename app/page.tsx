@@ -1,4 +1,5 @@
 import Check from "./components/check";
+import Contact from "./components/contact";
 import Details from "./components/details";
 import Hero from "./components/hero";
 import HomePage from "./components/home";
@@ -14,6 +15,7 @@ export default function Home() {
       <Hoodie/>
       <Check/>
       <Question/>
+      <Contact/>
     </div>
   );
 }
