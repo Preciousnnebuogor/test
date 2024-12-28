@@ -3,6 +3,7 @@ import Details from "./components/details";
 import Hero from "./components/hero";
 import HomePage from "./components/home";
 import Hoodie from "./components/hoodie";
+import Question from "./components/quest";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <Hero/>
       <Hoodie/>
       <Check/>
+      <Question/>
     </div>
   );
 }

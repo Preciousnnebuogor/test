@@ -64,6 +64,15 @@ export default function come() {
         <td className="border border-gray-300 px-4 py-2 text-center">67</td>
         <td className="border border-gray-300 px-4 py-2 text-center">68.5</td>
       </tr>
+
+      <div className={`flex flex-col  text-black px-4`}>
+        <div className={`flex justify-between w-[80%]`}>
+          <button className={`border-2 border-slate-200 flex space-x-4`}>
+            Why do I have to choose a high-resolution image for my printed
+            product?
+          </button>
+        </div>
+      </div>
     </div>
   );
 }
